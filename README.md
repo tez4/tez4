@@ -1,4 +1,5 @@
-### Hi there 👋
+## Joël Grosjean
+### Hi there!
 
 <!--
 **tez4/tez4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,5 @@
 ## Joël Grosjean
-### Hi there!
-### I'm a data science student at the FHNW in Windisch.
+### Hi there! I'm a data science student at the FHNW in Windisch.
 
 <!--
 **tez4/tez4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

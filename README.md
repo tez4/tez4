@@ -1,4 +1,3 @@
-## Joël Grosjean
 ### Hi there! I'm a data science student at the FHNW in Windisch.
 
 <!--

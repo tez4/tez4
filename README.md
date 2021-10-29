@@ -1,6 +1,6 @@
 ### Hi there! I'm a data science student at the FHNW in Windisch.
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tez4&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_rank=true" alt="Joel's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tez4&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tez4&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_rank=false" alt="Joel's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tez4&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
